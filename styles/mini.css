@@ -4,12 +4,22 @@
     box-sizing: border-box;
 }
 
-#body {
+#section {
     background-color: #E4EBFF;
     width: 1604px;
     height: 2377px;
+    margin: 0 auto;
+    margin-top: 119px;
+}
+
+#section2 {
+    background-color: #fff;
+    width: 1280px;
+    height: 2152px;
+    margin: 0 auto;
+    margin-top: 96px;
+
 }
 
 #features {
-
 }
