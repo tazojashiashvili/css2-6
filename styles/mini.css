@@ -9,17 +9,119 @@
     width: 1604px;
     height: 2377px;
     margin: 0 auto;
+    padding-top: 119px;
     margin-top: 119px;
 }
 
-#section2 {
+#secondSection {
     background-color: #fff;
     width: 1280px;
     height: 2152px;
     margin: 0 auto;
-    margin-top: 96px;
-
+    padding-top: 96px;
 }
 
 #features {
+    text-align: center;
+    color: #6941C6;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+#analytics {
+    text-align: center;
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 32px;
+}
+
+#powerful {
+    text-align: center;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#mainSection {
+    margin-top: 101px;
+}
+
+#messageDiv {
+    display: inline-block;
+    padding-top: 86px;
+    margin-left: 32px;
+    margin-right: 101px;
+}
+
+#teamInboxes {
+    margin-top: 20px;
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+#weather {
+    width: 553px;
+    height: 56px;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+#leverageDiv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#checkbox {
+    vertical-align: middle;
+}
+
+#automation {
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#alwaysDiv {
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+#secondCheckbox {
+    vertical-align: middle;
+}
+
+#always {
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#thirdCheckbox {
+    vertical-align: middle;
+}
+
+#automate {
+    vertical-align: middle;
+    display: inline-block;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+
+#mockup {
+
 }
