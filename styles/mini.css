@@ -46,6 +46,7 @@
 
 #mainSection {
     margin-top: 101px;
+    display:block;
 }
 
 #messageDiv {
@@ -122,6 +123,112 @@
     margin-left: 12px;
 }
 
-#mockup {
+#between {
+    margin-top: 96px;
+    margin-bottom: 96px;
+    display: inline-block;
 
+}
+
+#deliverDiv {
+    display: inline-block;
+    width: 560px;
+    height: 334px;
+    margin-left: 101px;
+    vertical-align: top;
+}
+
+#featured {
+    margin-bottom: 30px;
+    width: 48px;
+    height: 48px;
+     
+}
+
+#instant {
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+p {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+#checking {
+    display: inline-block;
+    width: 28px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+.check {
+    
+    margin-left: 16px;
+    margin-bottom: 20px;
+    vertical-align: middle;
+}
+
+.text {
+    vertical-align: middle;
+    margin-bottom: 20px;
+    margin-left: 12px;
+
+}
+
+#texting {
+    display: inline-block;
+    vertical-align: middle;
+} 
+
+#lastSection {
+    margin-bottom: 96px;
+}
+
+#manageDiv {
+    margin-top: 89px;
+    margin-left: 32px;
+    margin-right: 96px;
+    margin-bottom: 89px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#manage {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    color: #181D27;
+    margin-bottom: 16px;
+}
+
+#measure {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+    width: 560px;
+    height: 56px;
+}
+
+#checkDiv {
+    display: inline-block;
+    width: 28px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#textDiv {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+#mode {
+    margin-right: -20px;
 }
